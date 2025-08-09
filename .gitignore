@@ -1,0 +1,9 @@
+# Virtual environment
+gpu/
+
+# Python cache and metadata
+__pycache__/
+*.pyc
+
+# Ultralytics runs folder
+runs/
